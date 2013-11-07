@@ -20,7 +20,10 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.main);
 
 	}
-
+	
+	
+	
+//try
 	private class LoadWebPageASYNC extends AsyncTask<String, Void, String> {
 
 		@Override
