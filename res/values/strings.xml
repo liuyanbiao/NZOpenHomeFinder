@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NZOpenHomeFinder</string>
+    <string name="action_settings">Settings</string>
+
+    
+   
+    <string name="load_webpage">Load webpages!!!</string>
+     <string name="dummy_button">Dummy Button</string>
+    
+    
+    <string name="region_prompt">Choose region:</string>
+    <string-array name="region_arrays">
+        <item>North Shore</item>
+        <item>Central Auckland</item>
+        <item>East Auckland</item>
+        <item>South Auckland</item>
+        <item>Bay of Plenty</item>
+        <item>Lake Taupo</item>
+        <item>Taranaki</item>
+        <item>Manawatu</item>
+        <item>Wellington</item>
+        <item>Nelson</item>
+        <item>Canterbury</item>
+        <item>Lakes District</item>
+        <item>Otago</item>
+    </string-array>
+
+</resources>
