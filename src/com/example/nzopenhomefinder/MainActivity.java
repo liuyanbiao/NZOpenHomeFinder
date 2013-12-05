@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 	
 	
 	
-//try again
+//try again on Dec 5th
 	
 	private class LoadWebPageASYNC extends AsyncTask<String, Void, String> {
 
